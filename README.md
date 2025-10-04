@@ -1,6 +1,11 @@
 # Contact Form Project
 A responsive PHP contact form with PHPMailer integration, Bootstrap layout, and jQuery validation. Users can submit messages, and both admin and user receive confirmation emails.
 
+## Screenshot
+
+![Contact Form Screenshot](assets/screenshot.png)
+
+
 ## Live Demo
 [Try the contact form here](https://contact.free.nf/index.php)
 
