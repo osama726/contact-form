@@ -56,4 +56,4 @@ function env($key, $default = null) {
 }
 
 // --- تحميل ملف الـ .env (بره الhtdocs) ---
-loadEnv(__DIR__ . '/../.env');
+loadEnv(__DIR__ . '/.env');
