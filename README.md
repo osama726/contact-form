@@ -12,11 +12,11 @@ A responsive PHP contact form with PHPMailer integration, Bootstrap layout, and 
 - jQuery validation and interactive error messages.
 
 ## Configure config.php or .env with your mail settings:
-MAIL_HOST=smtp.example.com
-MAIL_USERNAME=your-email@example.com
-MAIL_PASSWORD=yourpassword
-MAIL_PORT=587
-MAIL_ENCRYPTION=tls
+- MAIL_HOST=smtp.example.com
+- MAIL_USERNAME=your-email@example.com
+- MAIL_PASSWORD=yourpassword
+- MAIL_PORT=587
+- MAIL_ENCRYPTION=tls
 
 ---
 ## Usage
