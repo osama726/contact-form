@@ -1,0 +1,21 @@
+# Composer vendor folder
+/vendor/
+
+# Node modules
+/node_modules/
+
+# Environment config
+.env
+config.php
+
+# IDE files
+*.idea/
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.cache
