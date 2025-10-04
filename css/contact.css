@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+form{
+    max-width: 600px;
+    margin: 20px auto;
+    
+}
+.user, .email{
+    border-right: none;
+}
+.contact-form .custom-alert{
+    padding: 5px 10px;
+    display: none;
+}
+.contact-form .input-group .asterisx{
+    background: #ffffff00;
+    color: rgb(134, 0, 0);
+    font-weight: bold;
+    border-left: none;
+    cursor: default;
+}
+.btn-success{
+    width: 100%;
+}
+textarea{
+    min-height: 100px !important;
+    max-height: 200px !important;
+}
